@@ -13,9 +13,6 @@ data scientist jobs market dataset and the US stocks.
 
 First and foremost, use the requirements.txt file to install the dependencies needed to run this file. After you can run this file.
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -44,7 +41,7 @@ You can run automated tests for this project by using Apache Airflow to schedule
 you have. But with this you have to get your data on S3 for it to run on the cloud at specified times.
 
 
-## Authors
+## Author
 
 * **Jedidiah Madjanor**
 
